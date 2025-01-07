@@ -1,0 +1,14 @@
+1	Write a program to check whether a given string is a palindrome. The program should ignore case and spaces.
+2	Write a program to print the Fibonacci series up to n terms using recursion and iteration.
+3	Write a program to sort an array of integers without using any built-in sorting methods.
+4	Write a program to read a text file and count the occurrences of each word. Display the words and their counts.
+5	Create a custom exception called InvalidAgeException and write a program to demonstrate its usage by checking if a user-provided age is valid (age >= 18).
+6	Write a program to demonstrate multithreading by creating a class that extends Thread and another that implements Runnable. Show how multiple threads can run simultaneously.
+7	Solve the Producer-Consumer problem using Java's wait() and notify() methods.
+8	Create a Singleton class in Java and ensure it is thread-safe. Explain its usage in a multithreaded environment.
+9	Write a program using Java 8's lambda expressions to filter and print all even numbers from a list of integers.
+10	Write a program to:
+
+Group a list of Employee objects by department.
+Count the number of employees in each department using Streams.
+The Employee class should have fields: id, name, age, and department.
